@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="jars/stanford-chinese-corenlp-2017-06-09-models.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-models.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/javax.json-api-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/javax.json.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/joda-time-2.9-sources.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/joda-time.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/jollyday-0.4.9-sources.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/jollyday.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/protobuf.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/xom-1.2.10-src.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-full-2017-06-09/xom.jar"/>
+	<classpathentry kind="lib" path="/protobuf/jars/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/protobuf/jars/java-json.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Users/DELL/AppData/Local/MyEclipse Professional 2014/configuration/org.eclipse.osgi/bundles/107/1/.cp/data/2.1/core/json-lib-2.1-jdk15.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://struts.apache.org/release/2.2.x/struts2-core/apidocs/"/>
+			<attribute name="me-identifier" value="data/2.1/core/json-lib-2.1-jdk15.jar"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
