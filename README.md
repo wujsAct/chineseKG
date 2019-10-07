@@ -1,5 +1,5 @@
 # chineseKG
-open chinses knowledge base information extraction
+open chinese knowledge base information extraction
 
 1. EntityRelationExtract 这个是一个java项目，需要jar包的话，可以找hw，我之前把jar包都发给他了；
 运行 ChineseNLPUtils.java 可以产生entity mention, relation mention 以及 dependency;
